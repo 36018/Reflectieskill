@@ -6,7 +6,7 @@
 
 
 * Wat heb ik met deze lessen nieuw geleerd?  
-_Ik heb geleerd hoe ik een github repository clone en veranderingen in het bestand weer terugstuur naar github. Ik heb geleerd hoe commands in de command prompt werken en hoe ik hierin branches maak. Ook heb ik geleerd hoe ik markdown kan toepassen in bijvoorbeeld een README file._
+_Ik heb geleerd hoe ik een github repository clone en veranderingen in het bestand weer terugstuur naar github. Ik heb geleerd hoe commands in de command prompt werken en hoe ik hierin branches maak. Ook heb ik geleerd hoe ik markdown kan toepassen in bijvoorbeeld een README file.._
 
 * Wat wist ik al?  
 _Ik heb voordat school begon al een keer met github desktop geoefend, dus git commit en git push kwamen me wel bekend voor als termen. Ik snapte er alleen op dat moment nog niet heel veel van._
